@@ -2,5 +2,5 @@ package gmk57.library
 
 class Foo {
     /** Super useful function */
-    fun getBar() = "bar_3"
+    fun getBar() = "master_4"
 }
